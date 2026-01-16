@@ -12,7 +12,7 @@
   "license": "MIT",
   "dependencies": {
     "ejs": "^3.1.10",
-    "express": "^4.21.2",
+    "express": "^4.22.1",
     "socket.io": "^4.8.0",
     "uuid": "^8.3.2"
   },
